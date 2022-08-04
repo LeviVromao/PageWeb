@@ -190,6 +190,10 @@ form h1{
     row-gap: 5px;
     font-size: 19px;
 }
+.banner{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(324px,0fr));
+}
 .section5{
     display: flex;
     align-items: center;
