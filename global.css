@@ -20,7 +20,7 @@ body{
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 6rem;
+    margin-bottom: 8rem;
 
 }
 .checkbox{
@@ -243,11 +243,11 @@ form h1{
     .Something{
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        justify-content: flex-start;
         align-items: center;
     }
     .text{
-        max-width: 31rem
+        max-width: 45rem
     }
     #seta{
         display: none;
